@@ -1,0 +1,6 @@
+@onlinetools_HostAddress = http://localhost:5277
+
+GET {{onlinetools_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
